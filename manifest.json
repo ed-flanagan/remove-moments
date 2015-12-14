@@ -4,8 +4,8 @@
     "name":         "Remove Twitter Moments",
     "short_name":   "Stop Moments",
     "description":  "Removes Twitter's 'Moments' navigation button.",
-    "version":      "0.0.0",
-    "version_name": "0.0.0 beta",
+    "version":      "1.0.0",
+    "version_name": "1.0.0",
     "homepage_url": "https://github.com/ed-flanagan/remove-moments",
     "author":       "Ed Flanagan",
 
