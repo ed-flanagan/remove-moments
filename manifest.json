@@ -29,6 +29,7 @@
             "run_at": "document_start",
             "all_frames": false,
             "js": [
+                "lib/jquery-2.1.4.min.js",
                 "remove.js"
             ]
         }
