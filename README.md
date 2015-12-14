@@ -7,13 +7,14 @@ https://chrome.google.com/webstore/detail/remove-twitter-moments/ahgkojcohophkbd
 
 ## Variations
 
-The main/published version uses vanilla JS to remove the actual button.
+The main/published version uses CSS to hide the button.
 
-I've also have two variations. One using jQuery, the other using CSS.
+I also made two variations. One using vanilla JavaScript, the other using jQuery.
 
+* https://github.com/ed-flanagan/remove-moments/tree/js
 * https://github.com/ed-flanagan/remove-moments/tree/jquery
-* https://github.com/ed-flanagan/remove-moments/tree/css
 
 ## License
+
 MIT (see LICENSE file).
 
